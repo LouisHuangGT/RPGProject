@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Egmon_fight","characterIndex":0,"characterName":"Egmon_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Egmon_smile","traits":[],"initialLevel":1,"maxLevel":99,"name":"艾格蒙","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Joann_fight","characterIndex":0,"characterName":"Joann_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Joann_young_normal","traits":[],"initialLevel":1,"maxLevel":99,"name":"乔安","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Shireen_fight","characterIndex":0,"characterName":"Shireen_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Shireen_young_normal","traits":[],"initialLevel":1,"maxLevel":99,"name":"希琳","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Gin_fight","characterIndex":0,"characterName":"Gin_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Gin_serious3","traits":[],"initialLevel":1,"maxLevel":99,"name":"银","nickname":"","note":"","profile":""}
+]
